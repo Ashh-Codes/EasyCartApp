@@ -1,3 +1,3 @@
-const serverURL ="https://easycartserver-2024.onrender.com"
+const serverURL ="https://easycartserver.onrender.com"
 
 export default serverURL
